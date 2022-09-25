@@ -1,8 +1,8 @@
-### Hi there 👋
+### 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/msubetir)
 [![Linkedin](https://img.shields.io/badge/Linkedin-9146FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maycon-subetir/)
-[![Site](https://img.shields.io/badge/WebSite-3146FF?style=for-the-badge&logo=google&logoColor=white)](https://www.linkedin.com/in/maycon-subetir/)
+[![Site](https://img.shields.io/badge/WebSite-3146FF?style=for-the-badge&logo=google&logoColor=white)](https://bitly.com/MayconSubetir)
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=MSubetir&show_icons=true&theme=dracula&count_private=true)
 
